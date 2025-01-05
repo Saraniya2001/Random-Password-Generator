@@ -20,8 +20,8 @@ Check out the live demo [here](https://saraniya2001.github.io/Random-Password-Ge
 ## Screenshots
 
 ### Example Screenshot
-![Random Password Generator Screenshot](<img width="841" alt="Screenshot 2025-01-06 010301" src="https://github.com/user-attachments/assets/55a850a5-e8a8-4854-a333-1464b116c257" />
-)  
+<img width="841" alt="Screenshot 2025-01-06 010301" src="https://github.com/user-attachments/assets/d312436c-597d-4c6a-92d0-184d6730d9a7" />
+
 
 
 ## Technologies Used
